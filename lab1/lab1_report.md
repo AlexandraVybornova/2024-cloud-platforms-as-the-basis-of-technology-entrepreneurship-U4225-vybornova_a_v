@@ -32,7 +32,7 @@
 
 ![image](https://github.com/user-attachments/assets/8ce8d933-e75d-49a9-a239-e46a9c230cf6)
 
-### Используя команду ls -lah показано, что эти файлы хранятся на VM.
+### Проверям, что эти файлы хранятся на VM.
 
 ![image](https://github.com/user-attachments/assets/002550c8-c11c-4284-8069-95e4314ed939)
 
